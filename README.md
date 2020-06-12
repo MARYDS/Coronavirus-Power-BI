@@ -2,8 +2,14 @@
 
 ## Uk Government data
 
+Links on https://coronavirus.data.gov.uk
 https://coronavirus.data.gov.uk/downloads/csv/coronavirus-cases_latest.csv
 https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv
+
+Links on https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891711/2020-06-11_COVID-19_UK_testing_time_series.csv
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/890918/2020-06-09_COVID-19_UK_testing_capacity_time_series.csv
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891710/2020-06-11_COVID-19_UK_deaths_time_series.csv
 
 ## Office of National Statistics
 
