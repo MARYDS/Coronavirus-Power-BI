@@ -1,5 +1,7 @@
 # Coronavirus Data
 
+Due to changes in the data supplied by the UK Government, this project is no longer maintained as the data sources no longer exist.
+
 ## Uk Government data
 
 Links on https://coronavirus.data.gov.uk
